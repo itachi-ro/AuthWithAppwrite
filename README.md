@@ -1,4 +1,4 @@
 # Authentication with Appwrite
 
-# PROJECT VIEW
+# PROJECT PAGES
 ![Demo Page](images/demo.png)
